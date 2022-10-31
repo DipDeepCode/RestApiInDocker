@@ -14,7 +14,7 @@ import java.util.List;
 @Log
 @SpringBootApplication
 public class RestapiApplication {
-
+    // просто для коммита в отдельной ветке
     private final CustomerRepository repository;
 
     @Autowired
